@@ -1,0 +1,14 @@
+/Users/nozimjonqozievgmail.com/Desktop/Sql/Hometask/homework4/obj/Debug/net9.0/homework4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nozimjonqozievgmail.com/Desktop/Sql/Hometask/homework4/obj/Debug/net9.0/homework4.AssemblyInfoInputs.cache
+/Users/nozimjonqozievgmail.com/Desktop/Sql/Hometask/homework4/obj/Debug/net9.0/homework4.AssemblyInfo.cs
+/Users/nozimjonqozievgmail.com/Desktop/Sql/Hometask/homework4/obj/Debug/net9.0/homework4.csproj.CoreCompileInputs.cache
+/Users/nozimjonqozievgmail.com/Desktop/Sql/Hometask/homework4/bin/Debug/net9.0/homework4
+/Users/nozimjonqozievgmail.com/Desktop/Sql/Hometask/homework4/bin/Debug/net9.0/homework4.deps.json
+/Users/nozimjonqozievgmail.com/Desktop/Sql/Hometask/homework4/bin/Debug/net9.0/homework4.runtimeconfig.json
+/Users/nozimjonqozievgmail.com/Desktop/Sql/Hometask/homework4/bin/Debug/net9.0/homework4.dll
+/Users/nozimjonqozievgmail.com/Desktop/Sql/Hometask/homework4/bin/Debug/net9.0/homework4.pdb
+/Users/nozimjonqozievgmail.com/Desktop/Sql/Hometask/homework4/obj/Debug/net9.0/homework4.dll
+/Users/nozimjonqozievgmail.com/Desktop/Sql/Hometask/homework4/obj/Debug/net9.0/refint/homework4.dll
+/Users/nozimjonqozievgmail.com/Desktop/Sql/Hometask/homework4/obj/Debug/net9.0/homework4.pdb
+/Users/nozimjonqozievgmail.com/Desktop/Sql/Hometask/homework4/obj/Debug/net9.0/homework4.genruntimeconfig.cache
+/Users/nozimjonqozievgmail.com/Desktop/Sql/Hometask/homework4/obj/Debug/net9.0/ref/homework4.dll
