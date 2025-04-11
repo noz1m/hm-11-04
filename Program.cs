@@ -55,3 +55,5 @@ else
 {
     File.Create(path1);
 }
+ 
+File.WriteAllText(path, File.ReadAllText(path1));

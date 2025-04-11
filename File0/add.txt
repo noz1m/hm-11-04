@@ -17,4 +17,4 @@ Drawing Tablet,Digital drawing tablet for artists,300.00,10,Electronics,2024-02-
 Waterproof Jacket,Lightweight jacket for rainy weather,80.00,50,Clothing,2024-02-17
 Dog Collar,Adjustable dog collar with reflective strap,20.00,100,Pets,2024-02-18
 Board Game,Strategy board game for family entertainment,40.00,20,Toys,2024-02-19
-Wireless Charger,Fast wireless charger for smartphones,30.00,60,Electronics,2024-02-20
+Wireless Charger,Fast wireless charger for smartphones,30.00,60,Electronics,2024-02-20/Users/nozimjonqozievgmail.com/Desktop/Sql/Hometask/homework4/File0/product.txt

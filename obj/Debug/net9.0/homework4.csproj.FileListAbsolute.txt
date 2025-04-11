@@ -12,3 +12,4 @@
 /Users/nozimjonqozievgmail.com/Desktop/Sql/Hometask/homework4/obj/Debug/net9.0/homework4.pdb
 /Users/nozimjonqozievgmail.com/Desktop/Sql/Hometask/homework4/obj/Debug/net9.0/homework4.genruntimeconfig.cache
 /Users/nozimjonqozievgmail.com/Desktop/Sql/Hometask/homework4/obj/Debug/net9.0/ref/homework4.dll
+/Users/nozimjonqozievgmail.com/Desktop/Sql/Hometask/homework4/obj/Debug/net9.0/homework4.sourcelink.json
